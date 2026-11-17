@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+websockets
+sqlalchemy
+bcrypt
+PyJWT[crypto]
+python-multipart
+y_py
